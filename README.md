@@ -254,10 +254,10 @@ src/main/java/com/practice/OAuth2/
   <img src="https://img.shields.io/badge/WebSocket_STOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-<div align="center">
+<div align="left">
 
 | Category | Spec |
-| --- | --- |
+| :-- | :-- |
 | Language | Java 17 |
 | Framework | Spring Boot 3.0.5 |
 | Security | Spring Security, OAuth2 Client (Kakao), JWT (jjwt 0.11.2) |
@@ -271,7 +271,7 @@ src/main/java/com/practice/OAuth2/
 </div>
 
 ### 🎨 Frontend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -280,10 +280,10 @@ src/main/java/com/practice/OAuth2/
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<div align="center">
+<div align="left">
 
 | Category | Spec |
-| --- | --- |
+| :-- | :-- |
 | Language | TypeScript |
 | Framework | Vue 3, Vue Router |
 | State Management | Pinia |
@@ -296,7 +296,7 @@ src/main/java/com/practice/OAuth2/
 코드는 [Gallae-Mallae-Client](https://github.com/Gallae-Mallae/Gallae-Mallae-Client) 저장소에 있습니다.
 
 ### 🗃️ DevOps
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
@@ -305,10 +305,10 @@ src/main/java/com/practice/OAuth2/
   <img src="https://img.shields.io/badge/CodeDeploy-FF9900?style=for-the-badge" />
 </p>
 
-<div align="center">
+<div align="left">
 
 | Category | Spec |
-| --- | --- |
+| :-- | :-- |
 | Container | Docker, Docker Compose |
 | CI/CD | GitHub Actions → AWS ECR → S3 → CodeDeploy |
 | Server | AWS EC2 (애플리케이션 컨테이너 2대) |
