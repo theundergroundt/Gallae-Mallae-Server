@@ -41,6 +41,18 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://theundergroundt.github.io/videos/gallae-mallae-ucc.mp4">
+    <img src="assets/ucc-thumbnail.png" width="600" alt="갈래말래 소개 영상 (클릭하면 재생)"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🎬 <a href="https://theundergroundt.github.io/videos/gallae-mallae-ucc.mp4">소개 영상 보기</a></b> (2분 21초)
+</p>
+
+<br/>
+
 ## 📑 목차
 
 <p align="center">
